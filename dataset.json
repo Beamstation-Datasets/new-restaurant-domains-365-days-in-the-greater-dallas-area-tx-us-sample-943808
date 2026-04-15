@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--The Startup List--\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Supplier, Tech, Payroll, Insurance, SEO).\n\nBusiness activity validated in the last 90 days by an \"Active Heartbeat\" signal.",
+  "config_name": "New Restaurant Domains < 365 days  in the Greater Dallas Area, TX, US",
+  "export_job_id": "38b7422b-ce9e-4081-bc57-77d2974869be",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 943808,
+  "location_name": "Dallas-Fort Worth-Arlington, TX",
+  "location_type": "metro",
+  "repo_name": "new-restaurant-domains-365-days-in-the-greater-dallas-area-tx-us-sample-943808",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/943808/beamstation_943808_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
+  "sample_pct": 9.39,
+  "sample_records": 71,
+  "sample_sha256": "57262eb7002914ae36010b9fe24ec5e1f35083c63194ecc5665836198573e34f",
+  "sample_size_bytes": 271333,
+  "total_records": 756,
+  "updated_at": "2026-04-07T19:15:09.716456+00:00"
+}
