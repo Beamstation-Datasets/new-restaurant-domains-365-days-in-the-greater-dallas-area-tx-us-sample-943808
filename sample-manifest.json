@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c86f3e97-6c4d-4389-9248-b4e282882b2e",
+  "export_job_id": "66c0c3c5-d65b-434d-8c5e-e261707e57ad",
   "id_short": 943808,
-  "published_at": "2026-04-19T07:05:25Z",
+  "published_at": "2026-04-22T19:09:33Z",
   "repo_name": "new-restaurant-domains-365-days-in-the-greater-dallas-area-tx-us-sample-943808",
   "sample_asset_name": "beamstation_943808_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/943808/beamstation_943808_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
-  "sample_records": 71,
-  "sample_sha256": "57262eb7002914ae36010b9fe24ec5e1f35083c63194ecc5665836198573e34f",
-  "sample_size_bytes": 271333,
-  "total_records": 710
+  "sample_records": 42,
+  "sample_sha256": "1bfc1cd06de1172283d4de40acfdbde67c929dca4caf4a59f666e93c84cbe46a",
+  "sample_size_bytes": 168430,
+  "total_records": 428
 }
